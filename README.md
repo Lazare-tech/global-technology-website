@@ -33,7 +33,7 @@ automatisation,sécurité incendie,domotique,énergie solaire et réseaux de com
 ### Accueil
 ![Accueil](screenshots/accueil.png)
 
-## Notre Histoire
+### Histoire
 ![Histoire](screenshots/notre_histoire.png)
 
 ### Services
