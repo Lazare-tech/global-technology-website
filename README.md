@@ -36,10 +36,11 @@ automatisation,sécurité incendie,domotique,énergie solaire et réseaux de com
 ### Histoire
 ![Histoire](screenshots/notre_histoire.png)
 
-### Services
+### Service energie solaire
+##  Disposition identique des services de forage,alimentation electrique,système de securite...
 ![Services](screenshots/service_energie_solaire.png)
-![Services](screenshots/service_forage_Et_addiction_d'eau_potable.png)
-![Services](screenshots/service_Distribution_etalimentation_electrique.png)
+![Services](screenshots/service_forage_et_addiction_d'eau_potable.png)
+![Services](screenshots/service_Distribution_et_alimentation_electrique.png)
 ![Services](screenshots/service_Electrique.png)
 ![Services](screenshots/service_Systemes_de_courants_faibles_et_communication.png)
 
